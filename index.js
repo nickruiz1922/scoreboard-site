@@ -40,4 +40,6 @@ function guest3Points() {
  function reset() {
     homeScore.textContent = 0
     guestScore.textContent = 0
+    homeResult = 0
+    guestResult = 0
 }
